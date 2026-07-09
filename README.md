@@ -25,48 +25,15 @@ Level 2
 📷 Screenshot
 1. Halaman Utama / Profile Card
 
-(Masukkan Screenshot 1 di sini)
+[assets/pertama.jpeg]
 
 2. Dialog Permission Kamera atau Lokasi
 
-(Masukkan Screenshot 2 di sini)
+[assets/kedua.jpeg]
 
 3. Hasil Foto Profil / Koordinat Lokasi
 
-(Masukkan Screenshot 3 di sini)
-
-🚀 Cara Menjalankan Aplikasi
-Clone repository
-git clone https://github.com/USERNAME/profile-card.git
-Masuk ke folder project
-cd profile-card
-Install dependency
-npm install
-
-atau
-
-npx expo install
-Jalankan aplikasi
-npx expo start
-Scan QR Code menggunakan aplikasi Expo Go pada Android atau iPhone.
-🛠 Tech Stack
-React Native
-Expo SDK
-JavaScript
-expo-image-picker
-expo-location
-AsyncStorage
-📂 Struktur Project
-ProfileCard
-│
-├── App.js
-├── app.json
-├── package.json
-├── assets
-└── README.md
-📦 Expo Snack
-
-Tambahkan link Expo Snack di bawah ini.
+[assets/ketiga.jpeg]
 
 Expo Snack:
 
