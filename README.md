@@ -25,15 +25,15 @@ Level 2
 📷 Screenshot
 1. Halaman Utama / Profile Card
 
-[assets/pertama.jpeg]
+![pertama](assets/pertama.jpeg)
 
 2. Dialog Permission Kamera atau Lokasi
 
-[assets/kedua.jpeg]
+![kedua](assets/kedua.jpeg)
 
 3. Hasil Foto Profil / Koordinat Lokasi
 
-[assets/ketiga.jpeg]
+![ketiga](assets/ketiga.jpeg)
 
 Expo Snack:
 
