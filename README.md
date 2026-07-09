@@ -1,4 +1,5 @@
 ProfileCard
+
 Deskripsi Aplikasi
 
 ProfileCard adalah aplikasi mobile sederhana berbasis React Native (Expo) yang memungkinkan pengguna membuat kartu profil pribadi. Pengguna dapat mengubah foto profil menggunakan kamera atau galeri, memasukkan nama, melihat lokasi GPS saat ini, serta menyimpan data profil agar tetap tersedia ketika aplikasi dibuka kembali.
@@ -69,4 +70,4 @@ Tambahkan link Expo Snack di bawah ini.
 
 Expo Snack:
 
-[https://snack.expo.dev/](https://snack.expo.dev/@fatur07-02/profile-card)
+[https://snack.expo.dev/@fatur07-02/profile-card]
